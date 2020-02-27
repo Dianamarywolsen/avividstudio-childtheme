@@ -1,0 +1,58 @@
+/*
+ Theme Name:   Page builder framework child
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Page builder framework child Theme
+ Author:       Diana
+ Author URI:   http://example.com
+ Template:     page-builder-framework
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  page-builder-framework
+*/
+
+
+h2.elementor-heading-title.elementor-size-default {
+    font-size: 3.5rem !important;
+    font-family: 'roboto, sans-serif';
+}
+
+h5.elementor-heading-title.elementor-size-default {
+    margin-top: 2% !important;
+}
+
+.elementor-4294 .elementor-element.elementor-element-7c7ab9f .elementor-heading-title {
+    color: #54595F;
+    font-size: 65px;
+    font-weight: 900;
+    line-height: 1.2em;
+    font-family: roboto, sans-serif;
+}
+
+
+span.site-title {
+    font-family: roboto, sans-serif;
+}
+
+a {
+ font-family: roboto, sans-serif;   
+}
+
+button {
+background-color: #EAEAD1;    
+}
+
+.elementor-4294 .elementor-element.elementor-element-7289b5ae .elementor-button {
+border-color: #EAEAD1;
+}
+
+.wpbff-hamburger:before {
+    color: #EAEAD1; 
+}
+
+.wpbf-container-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
